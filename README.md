@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sofia Carolina Mantilla
+# 👋 Hi, I'm Sofia
 
 I'm a Systems Engineering student building my skills in AI, Data, and Front-End while learning how to create technology that’s useful and meaningful for others.
 
