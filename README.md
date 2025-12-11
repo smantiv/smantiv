@@ -6,17 +6,16 @@ I'm a Systems Engineering student building my skills in AI, Data, and Front-End 
 
 ## 📝 About Me
 
-I’m learning and experimenting in AI, Data, and Front-End development, with the long-term goal of building technology that feels useful and meaningful. Through university work and product operations experience, I’ve learned how much I enjoy understanding how systems work and creating clarity through documentation and thoughtful design.
-
-I’m still early in my journey, but I’m committed to learning consistently and growing into someone who can contribute to meaningful, real-world products.
+I’m learning and experimenting in AI, Data, and Front-End development, with the long-term goal of building technology that feels useful and meaningful.  
+I’m still early in my journey, but I’m committed to learning consistently and growing into someone who can contribute to real-world products.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, JavaScript, C++, Kotlin  
-**Frontend:** HTML, CSS, React (basics)  
-**Tools & Platforms:** GitHub, Git, Excel, Google Workspace, AWS (basics)  
+**Frontend:** HTML, CSS, React 
+**Tools & Platforms:** GitHub, Git, Excel, Google Workspace, AWS
 **Software Practices:** Technical documentation, QA testing, workflow optimization  
 
 ---
