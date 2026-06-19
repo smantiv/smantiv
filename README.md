@@ -1,67 +1,92 @@
-# 👋 Hi, I'm Sofia
+# 🪩 Hi, I'm Sofia ✨
 
-I'm a Systems Engineering student building my skills in AI, Data, and Front-End while learning how to create technology that’s useful and meaningful for others.
+I'm a Systems Engineering student building practical projects at the intersection of **AI, Data, MLOps, Backend, and Front-End development**.
+
+I enjoy learning hands-on projects, documenting what I build, and turning technical concepts into useful solutions.
 
 ---
 
-## 📝 About Me
+## 🫧 About Me
 
-I’m learning and experimenting in AI, Data, and Front-End development, with the long-term goal of building technology that feels useful and meaningful.  
-I’m still early in my journey, but I’m committed to learning consistently and growing into someone who can contribute to real-world products.
+I’m currently strengthening my skills in software development, data workflows, machine learning systems, and user-facing applications.
+
+My projects reflect a mix of academic work, personal learning, and practical experimentation with tools used in real-world tech environments, including **Docker, MLflow, Keycloak, LangChain, MCP, SQLite, Python, and web technologies**.
+
+I’m especially interested in projects that combine technical implementation with reproducibility and real-world usefulness.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, JavaScript, C++, Kotlin  
-**Frontend:** HTML, CSS, React 
-**Tools & Platforms:** GitHub, Git, Excel, Google Workspace, AWS
-**Software Practices:** Technical documentation, QA testing, workflow optimization  
+**Languages:** Python, Java, JavaScript, C++, Kotlin
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend & APIs:** Node.js, Express.js, REST APIs
+**AI & Data:** Pandas, SQLite, Scikit-learn, LangChain, Ollama
+**MLOps & DevOps:** MLflow, Docker, Docker Compose, Git, GitHub
+**Security & IAM:** Keycloak, OAuth 2.0, OpenID Connect
+**Practices:** Technical documentation, QA testing, workflow design, project organization
 
 ---
 
-## 📌 Key Projects
+## 💌 Featured Projects
 
-### **NanaGo — Mobile App**
-A mobile app concept designed to support elderly care coordination.  
-Built as part of my mobile development class, it includes screen navigation, UI components, and early-stage workflows designed to connect caregivers with elders in need.  
-Originally developed as a group project, later completed individually.
+### 🤖✨ [Sales Agent MCP](https://github.com/smantiv/sales-agent-mcp)
 
+An AI-powered sales analysis agent that answers natural-language questions about sales data.
+It uses a controlled MCP tool server to safely query a local SQLite database, generate tables, create charts, and export results to CSV/XLSX.
 
-### **Mangata & Gallo - Web Page**
-A fully responsive home page built using semantic HTML and modern CSS practices.  
-The project was created for the graded portfolio assignment of Meta’s Front-End Engineering specialization, following a real design brief with brand guidelines, layout requirements, and UX goals.
+**Tech:** Python, LangChain, FastMCP, SQLite, Pandas, Matplotlib, Ollama
 
 ---
 
-## ⭐ Leadership & Advocacy
+### 🚀🧪 [MLflow Docker MLOps](https://github.com/smantiv/mlflow-docker-mlops)
 
-**Orientation Leader — Pontificia Universidad Javeriana**  
-Supported first-semester engineering students during onboarding and campus integration.  
-:contentReference[oaicite:0]{index=0}
+An end-to-end MLOps workflow that trains, tracks, registers, and serves a machine learning model as an API.
+The project demonstrates how a model can move from local training to a reproducible containerized serving environment.
 
-**Webmaster — IEEE WIE UNI**  
-Maintained the chapter website and contributed to community events.  
-:contentReference[oaicite:1]{index=1}
-
-**Housing Assistant — AIESEC**  
-Coordinated housing logistics for international volunteers and supported cross-cultural communication.  
-:contentReference[oaicite:2]{index=2}
+**Tech:** MLflow, Docker, Docker Compose, Scikit-learn, Python, SQLite
 
 ---
 
-## 🚀 Professional Goals
+### 🔐🪄 [Keycloak OAuth Docker](https://github.com/smantiv/keycloak-oauth-docker)
 
-- Strengthen my skills through continuous learning and practical projects  
-- Contribute to real products where I can grow alongside experienced teams  
-- Build a portfolio that shows my journey and the things I’m learning to create  
-- Develop the technical foundation I’ll need for future opportunities in tech  
+A practical authentication project using Keycloak and OAuth 2.0/OpenID Connect.
+It demonstrates centralized login, Google OAuth integration, role-based access concepts, and a Node.js/Express demo app running with Docker.
+
+**Tech:** Keycloak, Docker, OAuth 2.0, OpenID Connect, Node.js, Express.js
 
 ---
 
-## 📫 Connect With Me
+### 💻🍔 [TungTungSavor](https://github.com/smantiv/tungtungsavor)
 
-- **LinkedIn:** https://linkedin.com/in/sofiacarolinamantillavega  
-- **Email:** sofiamantilla11@gmail.com  
+A front-end web project built with HTML, CSS, and JavaScript.
+It showcases organized client-side development, structured assets, responsive design practices, and interactive web interface building.
 
-Looking forward to collaborating on projects at the intersection of technology, learning, and product development. 🌍✨
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 📊☁️ [Data Lifecycle MLOps](https://github.com/smantiv/data-lifecycle-mlops)
+
+An interactive visual guide that explains AWS data lifecycle and MLOps concepts through a structured mind map.
+The project focuses on technical communication, cloud data workflows, and making complex architecture concepts easier to understand.
+
+**Tech:** HTML, Draw.io, AWS Data Lifecycle concepts, MLOps documentation
+
+---
+
+## 🧁 Professional Goals
+
+* Continue building practical projects that combine AI, data, and software development
+* Strengthen my technical foundation through hands-on work and clear documentation
+* Grow into roles related to AI engineering, data, MLOps, backend development, or product-focused software engineering
+* Contribute to real-world products while learning from experienced technical teams
+
+---
+
+## 📫 Let’s Connect
+
+* **LinkedIn:** https://linkedin.com/in/sofiacarolinamantillavega
+* **Email:** [sofiamantilla11@gmail.com](mailto:sofiamantilla11@gmail.com)
+
+Thanks for visiting my profile 🌷✨
