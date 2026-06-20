@@ -2,7 +2,7 @@
 
 # 🪩 Hi, I'm Sofia ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=AI+%7C+Data+Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=AI+%7C+Data+%7C+Frontend" />
 
 <br/>
 
