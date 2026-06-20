@@ -2,7 +2,7 @@
 
 # 🪩 Hi, I'm Sofia ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=AI+%7C+Data+%7C+Frontend" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=AI+%7C+Data+Frontend" />
 
 <br/>
 
@@ -84,9 +84,9 @@ I'm especially interested in projects that combine technical implementation with
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&hide_title=true&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&title_co[...]" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&hide_title=true&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&title_color=FF8FAB&text_color=F8D7E8&bg_color=0D1117&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smantiv&layout=compact&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=0D1117&hide_border=tr[...]" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smantiv&layout=compact&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=0D1117&hide_border=true" />
 
 </div>
 
