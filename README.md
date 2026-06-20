@@ -158,25 +158,25 @@ The project focuses on technical communication, cloud data workflows, and making
 ## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://linkedin.com/in/sofiacarolinamantillavega">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sofiamantilla11@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_Email-F08080?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/smantiv">
+    <img src="https://img.shields.io/badge/View_my_GitHub-FF5C8A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://linkedin.com/in/sofiacarolinamantillavega">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sofiamantilla11@gmail.com">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-F08080?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/smantiv">
-  <img src="https://img.shields.io/badge/View_my_GitHub-FF5C8A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <br/>
 
-<br/><br/>
+  <img src="assets/cat.gif" width="220" alt="Cute animated cat" />
 
-<img src="assets/cat.gif" width="130" alt="Cute animated cat" />
+  <br/>
 
-<br/><br/>
-
-Thanks for visiting my profile 🌷✨
-
+  <b>Thanks for visiting my profile 🌷✨</b>
 </div>
+
+
 
 
