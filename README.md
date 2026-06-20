@@ -42,50 +42,50 @@ I’m especially interested in projects that combine technical implementation wi
 ### 💗 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FF8FAB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF8FAB?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-FF8FAB?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-FF8FAB?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFC2D1?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFB3C6?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-FB6F92?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-FF9EBB?style=flat&logo=kotlin&logoColor=white" />
 </p>
 
 ### 🌷 Front-End
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-FFB3C6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FFB3C6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-FFB3C6?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFC2D1?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB3C6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FF9EBB?style=flat&logo=react&logoColor=white" />
 </p>
 
 ### 🧁 Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-F4A7B9?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-F4A7B9?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-F4A7B9?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FFC2D1?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-FFB3C6?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST APIs-FF8FAB?style=flat&logo=postman&logoColor=white" />
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-EA9AB2?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-EA9AB2?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-EA9AB2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-EA9AB2?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-EA9AB2?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-FFC2D1?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-FFB3C6?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-FF8FAB?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-FF9EBB?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-FB6F92?style=flat&logo=ollama&logoColor=white" />
 </p>
 
 ### 🪄 MLOps, DevOps & IAM
 
 <p>
-  <img src="https://img.shields.io/badge/MLflow-D98BA0?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-D98BA0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-D98BA0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-D98BA0?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-D98BA0?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-D98BA0?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth_2.0-D98BA0?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-FFC2D1?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-FFB3C6?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker Compose-FF8FAB?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF9EBB?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-FB6F92?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-FFC2D1?style=flat&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth 2.0-FFB3C6?style=flat&logo=auth0&logoColor=white" />
 </p>
 
 ---
