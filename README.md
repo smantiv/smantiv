@@ -171,11 +171,12 @@ The project focuses on technical communication, cloud data workflows, and making
 
 <br/><br/>
 
-<img src="./assets/cat.gif" width="130" alt="Cute animated cat" />
+<img src="assets/cat.gif" width="130" alt="Cute animated cat" />
 
 <br/><br/>
 
 Thanks for visiting my profile 🌷✨
 
 </div>
+
 
