@@ -42,50 +42,50 @@ I’m especially interested in projects that combine technical implementation wi
 ### 💗 Languages
 
 <p>
-  <img src="./badges/python.svg" alt="Python" />
-  <img src="./badges/java.svg" alt="Java" />
-  <img src="./badges/javascript.svg" alt="JavaScript" />
-  <img src="./badges/cpp.svg" alt="C++" />
-  <img src="./badges/kotlin.svg" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-FF8FAB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FF8FAB?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-FF8FAB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-FF8FAB?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ### 🌷 Front-End
 
 <p>
-  <img src="./badges/html5.svg" alt="HTML5" />
-  <img src="./badges/css3.svg" alt="CSS3" />
-  <img src="./badges/javascript.svg" alt="JavaScript" />
-  <img src="./badges/react.svg" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-FFB3C6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB3C6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB3C6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFB3C6?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ### 🧁 Backend & APIs
 
 <p>
-  <img src="./badges/nodejs.svg" alt="Node.js" />
-  <img src="./badges/expressjs.svg" alt="Express.js" />
-  <img src="./badges/rest_apis.svg" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Node.js-F4A7B9?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-F4A7B9?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-F4A7B9?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="./badges/pandas.svg" alt="Pandas" />
-  <img src="./badges/sqlite.svg" alt="SQLite" />
-  <img src="./badges/scikitlearn.svg" alt="Scikit-learn" />
-  <img src="./badges/langchain.svg" alt="LangChain" />
-  <img src="./badges/ollama.svg" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Pandas-EA9AB2?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-EA9AB2?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-EA9AB2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-EA9AB2?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-EA9AB2?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 ### 🪄 MLOps, DevOps & IAM
 
 <p>
-  <img src="./badges/mlflow.svg" alt="MLflow" />
-  <img src="./badges/docker.svg" alt="Docker" />
-  <img src="./badges/docker_compose.svg" alt="Docker Compose" />
-  <img src="./badges/git.svg" alt="Git" />
-  <img src="./badges/github.svg" alt="GitHub" />
-  <img src="./badges/keycloak.svg" alt="Keycloak" />
-  <img src="./badges/oauth2.svg" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/MLflow-D98BA0?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-D98BA0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-D98BA0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-D98BA0?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-D98BA0?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-D98BA0?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-D98BA0?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 ---
