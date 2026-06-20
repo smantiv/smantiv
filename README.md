@@ -84,11 +84,19 @@ I'm especially interested in projects that combine technical implementation with
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&hide_title=true&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&line_height=24&title_color=FF8FAB&text_color=F8D7E8&icon_color=FF8FAB&ring_color=FF8FAB&bg_color=00000000&hide_border=true" alt="Sofia's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=smantiv&layout=compact&langs_count=6&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=00000000&hide_border=true" alt="Sofia's most used languages" />
+<table>
+  <tr>
+    <td valign="top">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&custom_title=GitHub%20Stats&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&line_height=24&title_color=FF8FAB&text_color=F8D7E8&icon_color=FF8FAB&ring_color=FF8FAB&bg_color=00000000&hide_border=true" alt="Sofia's GitHub stats" />
+    </td>
+    <td valign="top">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=smantiv&layout=compact&langs_count=6&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=00000000&hide_border=true" alt="Sofia's most used languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
