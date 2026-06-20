@@ -6,7 +6,7 @@
 
 <br/>
 
-I'm a Systems Engineering student building practical projects at the intersection of  
+I'm a Systems Engineering student building practical projects at the intersection of
 **AI, Data, MLOps, Backend, and Front-End development**.
 
 I enjoy learning through hands-on projects, documenting what I build, and turning technical concepts into useful solutions.
@@ -97,14 +97,13 @@ I'm especially interested in projects that combine technical implementation with
 
 </div>
 
-
 ---
 
 ## 💌 Featured Projects
 
 ### 🤖✨ [Sales Agent MCP](https://github.com/smantiv/sales-agent-mcp)
 
-An AI-powered sales analysis agent that answers natural-language questions about sales data.  
+An AI-powered sales analysis agent that answers natural-language questions about sales data.
 It uses a controlled MCP tool server to safely query a local SQLite database, generate tables, create charts, and export results to CSV/XLSX.
 
 **Tech:** Python, LangChain, FastMCP, SQLite, Pandas, Matplotlib, Ollama
@@ -113,7 +112,7 @@ It uses a controlled MCP tool server to safely query a local SQLite database, ge
 
 ### 🚀🧪 [MLflow Docker MLOps](https://github.com/smantiv/mlflow-docker-mlops)
 
-An end-to-end MLOps workflow that trains, tracks, registers, and serves a machine learning model as an API.  
+An end-to-end MLOps workflow that trains, tracks, registers, and serves a machine learning model as an API.
 The project demonstrates how a model can move from local training to a reproducible containerized serving environment.
 
 **Tech:** MLflow, Docker, Docker Compose, Scikit-learn, Python, SQLite
@@ -122,7 +121,7 @@ The project demonstrates how a model can move from local training to a reproduci
 
 ### 🔐🪄 [Keycloak OAuth Docker](https://github.com/smantiv/keycloak-oauth-docker)
 
-A practical authentication project using Keycloak and OAuth 2.0/OpenID Connect.  
+A practical authentication project using Keycloak and OAuth 2.0/OpenID Connect.
 It demonstrates centralized login, Google OAuth integration, role-based access concepts, and a Node.js/Express demo app running with Docker.
 
 **Tech:** Keycloak, Docker, OAuth 2.0, OpenID Connect, Node.js, Express.js
@@ -131,7 +130,7 @@ It demonstrates centralized login, Google OAuth integration, role-based access c
 
 ### 💻🍔 [TungTungSavor](https://github.com/smantiv/tungtungsavor)
 
-A front-end web project built with HTML, CSS, and JavaScript.  
+A front-end web project built with HTML, CSS, and JavaScript.
 It showcases organized client-side development, structured assets, responsive design practices, and interactive web interface building.
 
 **Tech:** HTML, CSS, JavaScript
@@ -140,7 +139,7 @@ It showcases organized client-side development, structured assets, responsive de
 
 ### 📊☁️ [Data Lifecycle MLOps](https://github.com/smantiv/data-lifecycle-mlops)
 
-An interactive visual guide that explains AWS data lifecycle and MLOps concepts through a structured mind map.  
+An interactive visual guide that explains AWS data lifecycle and MLOps concepts through a structured mind map.
 The project focuses on technical communication, cloud data workflows, and making complex architecture concepts easier to understand.
 
 **Tech:** HTML, Draw.io, AWS Data Lifecycle concepts, MLOps documentation
@@ -172,6 +171,11 @@ The project focuses on technical communication, cloud data workflows, and making
 
 <br/><br/>
 
+<img src="./assets/cat.gif" width="130" alt="Cute animated cat" />
+
+<br/><br/>
+
 Thanks for visiting my profile 🌷✨
 
 </div>
+
