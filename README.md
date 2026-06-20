@@ -13,16 +13,6 @@ I enjoy learning through hands-on projects, documenting what I build, and turnin
 
 <br/>
 
-<a href="https://linkedin.com/in/sofiacarolinamantillavega">
-  <img src="https://img.shields.io/badge/LinkedIn-FF8FAB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/smantiv">
-  <img src="https://img.shields.io/badge/GitHub-FF5C8A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:sofiamantilla11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-F08080?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
