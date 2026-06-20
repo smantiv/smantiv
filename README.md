@@ -2,7 +2,7 @@
 
 # 🪩 Hi, I'm Sofia ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=Systems+Engineering+Student;AI+%7C+Data+%7C+MLOps+%7C+Backend+%7C+Front-End;Building+practical+and+documented+tech+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=Systems+Engineering+Student;AI+%7C+Data+%7C+MLOps+%7C[...]" />
 
 <br/>
 
@@ -31,7 +31,7 @@ I enjoy learning through hands-on projects, documenting what I build, and turnin
 
 I’m currently strengthening my skills in software development, data workflows, machine learning systems, and user-facing applications.
 
-My projects reflect a mix of academic work, personal learning, and practical experimentation with tools used in real-world tech environments, including **Docker, MLflow, Keycloak, LangChain, MCP, SQLite, Python, and web technologies**.
+My projects reflect a mix of academic work, personal learning, and practical experimentation with tools used in real-world tech environments, including **Docker, MLflow, Keycloak, LangChain, MCP, SQLi[...] 
 
 I’m especially interested in projects that combine technical implementation with reproducibility and real-world usefulness.
 
@@ -42,60 +42,61 @@ I’m especially interested in projects that combine technical implementation wi
 ### 💗 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/𝗣𝘆𝘁𝗵𝗼𝗻-FFC2D1?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮-FFB3C6?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁-FF8FAB?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗖++-FB6F92?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗞𝗼𝘁𝗹𝗶𝗻-FF9EBB?style=flat&logo=kotlin&logoColor=white" />
+  <img src="./badges/python.svg" alt="Python" />
+  <img src="./badges/java.svg" alt="Java" />
+  <img src="./badges/javascript.svg" alt="JavaScript" />
+  <img src="./badges/cpp.svg" alt="C++" />
+  <img src="./badges/kotlin.svg" alt="Kotlin" />
 </p>
 
 ### 🌷 Front-End
 
 <p>
-  <img src="https://img.shields.io/badge/𝗛𝗧𝗠𝗟𝟱-FFC2D1?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗖𝗦𝗦𝟯-FFB3C6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁-FF8FAB?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗥𝗲𝗮𝗰𝘁-FF9EBB?style=flat&logo=react&logoColor=white" />
+  <img src="./badges/html5.svg" alt="HTML5" />
+  <img src="./badges/css3.svg" alt="CSS3" />
+  <img src="./badges/javascript.svg" alt="JavaScript" />
+  <img src="./badges/react.svg" alt="React" />
 </p>
 
 ### 🧁 Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/𝗡𝗼𝗱𝗲.𝗷𝘀-FFC2D1?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀-FFB3C6?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀-FF8FAB?style=flat&logo=postman&logoColor=white" />
+  <img src="./badges/nodejs.svg" alt="Node.js" />
+  <img src="./badges/expressjs.svg" alt="Express.js" />
+  <img src="./badges/rest_apis.svg" alt="REST APIs" />
 </p>
 
 ### 🤖 AI & Data
 
 <p>
-  <img src="https://img.shields.io/badge/𝗣𝗮𝗻𝗱𝗮𝘀-FFC2D1?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗦𝗤𝗟𝗶𝘁𝗲-FFB3C6?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗦𝗰𝗶𝗸𝗶𝘁--𝗹𝗲𝗮𝗿𝗻-FF8FAB?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗟𝗮𝗻𝗴𝗖𝗵𝗮𝗶𝗻-FF9EBB?style=flat&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗢𝗹𝗹𝗮𝗺𝗮-FB6F92?style=flat&logo=ollama&logoColor=white" />
+  <img src="./badges/pandas.svg" alt="Pandas" />
+  <img src="./badges/sqlite.svg" alt="SQLite" />
+  <img src="./badges/scikitlearn.svg" alt="Scikit-learn" />
+  <img src="./badges/langchain.svg" alt="LangChain" />
+  <img src="./badges/ollama.svg" alt="Ollama" />
 </p>
 
 ### 🪄 MLOps, DevOps & IAM
 
 <p>
-  <img src="https://img.shields.io/badge/𝗠𝗟𝗳𝗹𝗼𝘄-FFC2D1?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗗𝗼𝗰𝗸𝗲𝗿-FFB3C6?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗗𝗼𝗰𝗸𝗲𝗿 𝗖𝗼𝗺𝗽𝗼𝘀𝗲-FF8FAB?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗚𝗶𝘁-FF9EBB?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗚𝗶𝘁𝗛𝘂𝗯-FB6F92?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗞𝗲𝘆𝗰𝗹𝗼𝗮𝗸-FFC2D1?style=flat&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/𝗢𝗔𝘂𝘁𝗵 𝟮.𝟬-FFB3C6?style=flat&logo=auth0&logoColor=white" />
+  <img src="./badges/mlflow.svg" alt="MLflow" />
+  <img src="./badges/docker.svg" alt="Docker" />
+  <img src="./badges/docker_compose.svg" alt="Docker Compose" />
+  <img src="./badges/git.svg" alt="Git" />
+  <img src="./badges/github.svg" alt="GitHub" />
+  <img src="./badges/keycloak.svg" alt="Keycloak" />
+  <img src="./badges/oauth2.svg" alt="OAuth 2.0" />
 </p>
+
 ---
 
 ## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&hide_title=true&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&title_color=FF8FAB&text_color=F8D7E8&icon_color=FF5C8A&bg_color=0D1117&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smantiv&show_icons=true&hide_title=true&hide_rank=true&hide=stars,issues&include_all_commits=true&count_private=true&title_co[...]" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smantiv&layout=compact&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=0D1117&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smantiv&layout=compact&hide=Jupyter%20Notebook&title_color=FF8FAB&text_color=F8D7E8&bg_color=0D1117&hide_border=tr[...]" />
 
 </div>
 
