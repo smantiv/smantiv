@@ -2,7 +2,7 @@
 
 # 🪩 Hi, I'm Sofia ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=Systems+Engineering+Student;AI+%7C+Data+%7C+MLOps+%7C[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=850&lines=AI+%7C+Data+%7C+Frontend" />
 
 <br/>
 
@@ -19,11 +19,11 @@ I enjoy learning through hands-on projects, documenting what I build, and turnin
 
 ## 🫧 About Me
 
-I’m currently strengthening my skills in software development, data workflows, machine learning systems, and user-facing applications.
+I'm currently strengthening my skills in software development, data workflows, machine learning systems, and user-facing applications.
 
-My projects reflect a mix of academic work, personal learning, and practical experimentation with tools used in real-world tech environments, including **Docker, MLflow, Keycloak, LangChain, MCP, SQLi[...] 
+My projects reflect a mix of academic work, personal learning, and practical experimentation with tools used in real-world tech environments, such as Docker, MLflow, Keycloak, LangChain, MCP, and SQLite.
 
-I’m especially interested in projects that combine technical implementation with reproducibility and real-world usefulness.
+I'm especially interested in projects that combine technical implementation with reproducibility and real-world usefulness.
 
 ---
 
@@ -148,7 +148,7 @@ The project focuses on technical communication, cloud data workflows, and making
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 <div align="center">
 
