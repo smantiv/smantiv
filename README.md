@@ -149,8 +149,8 @@ The project focuses on technical communication, cloud data workflows, and making
 ## 🧁 Professional Goals
 
 * Continue building practical projects that combine AI, data, and software development
-* Strengthen my technical foundation through hands-on work and clear documentation
-* Grow into roles related to AI engineering, data, MLOps, backend development, or product-focused software engineering
+* Strengthen my technical foundation through hands-on work
+* Grow into roles related to AI engineering, data, MLOps, or product-focused software engineering
 * Contribute to real-world products while learning from experienced technical teams
 
 ---
